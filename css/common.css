@@ -68,8 +68,7 @@ kbd {
 .pizza-item {
   width: 120px;
   height: 120px;
-  background-image: url("/images/pizza.jpeg");
-  border: 1px solid grey;
+  background-image: url("/images/pizza.jpg");
 }
 
 .focused {
